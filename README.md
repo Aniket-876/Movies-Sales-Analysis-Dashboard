@@ -25,4 +25,8 @@ Identified that high-budget movies don't always correlate with high ratings, but
 
 
 
-<img width="1313" height="721" alt="Dashboard" src="https://github.com/user-attachments/assets/36cf279f-8a33-48ef-a039-77f50be297af" />
+<img width="1313" height="721" alt="Dashboard" src="https://github.com/user-attachments/assets/36cf279f-8a33-48ef-a039-77f50be297af" /><img width="1331" height="721" alt="Screenshot 2026-04-04 153257" src="https://github.com/user-attachments/assets/91230542-9bb4-4a29-a86a-11e2df35da89" /><img width="1291" height="711" alt="Screenshot 2026-04-04 153216" src="https://github.com/user-attachments/assets/247c2c61-b7fa-4fd8-ac32-4b59cc62fe1e" />
+<img width="1304" height="699" alt="Screenshot 2026-04-04 153208" src="https://github.com/user-attachments/assets/15fe77ef-d48b-4886-be7e-af5df08e78ca" />
+<img width="1295" height="704" alt="Screenshot 2026-04-04 153159" src="https://github.com/user-attachments/assets/b88f8d09-37de-434c-bed1-082a949e5958" />
+
+
